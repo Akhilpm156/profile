@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.scss';
-import { BrowserRouter, Routes, Route, useLocation}  from 'react-router-dom';
+import {Routes, Route, useLocation}  from 'react-router-dom';
 import Home from './Pages/home';
 import About from './Pages/about';
 import Skills from './Pages/skills';
@@ -25,14 +25,12 @@ function App() {
     <Navbar/>
 
     <div className="App__main-page-content">
-    <BrowserRouter basename="/port">
       <Routes>
         <Route index path='/port'element={<Home/>} />
         <Route  path='/about'element={<About/>} />
         <Route  path='/skills'element={<Skills/>} />
         <Route  path='/portfolio'element={<Portfolio/>} />
       </Routes>
-      </BrowserRouter>
     </div>
     
       
