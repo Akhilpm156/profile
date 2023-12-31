@@ -28,13 +28,13 @@
     button{
       position: relative;
       cursor: pointer;
-      padding: 10px 70px;
+      padding: 10px 10px;
       font-size: 2rem;
       background: transparent;
       color: var(--yellow-theme-main-color);
       border: 1.5px solid var(--yellow-theme-main-color);
       border-radius: 4px;
-      font-weight: 500;
+      font-weight: 300;
 
       &:hover{
         background: var(--yellow-theme-main-color);

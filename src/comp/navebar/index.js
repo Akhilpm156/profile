@@ -34,6 +34,10 @@ const Navbar = ()=> {
     setToggleIcon(!toggleIcon);
   };
 
+  const closeMenu = () => {
+    setToggleIcon(false);
+  };
+
 	return(
 
 		<div>
@@ -50,7 +54,7 @@ const Navbar = ()=> {
 						data.map((item,key)=>(
 							<li key={key} className="navbar__container__menu__item">
 
-								<Link className="navbar__container__menu__item__link" to={item.to}>
+								<Link className="navbar__container__menu__item__link" to={item.to} onClick={closeMenu} >
 								{item.label}
 								</Link>
 							</li>

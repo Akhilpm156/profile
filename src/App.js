@@ -26,7 +26,7 @@ function App() {
 
     <div className="App__main-page-content">
       <Routes>
-        <Route index path='/port'element={<Home/>} />
+        <Route index path='/'element={<Home/>} />
         <Route  path='/about'element={<About/>} />
         <Route  path='/skills'element={<Skills/>} />
         <Route  path='/portfolio'element={<Portfolio/>} />
