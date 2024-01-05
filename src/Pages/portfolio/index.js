@@ -15,6 +15,9 @@ import ImageTen from '../../images/image10.png';
 import Image11 from '../../images/image11.jpg';
 import Image12 from '../../images/image12.jpg';
 import Image13 from '../../images/image13.png';
+import Image14 from '../../images/image14.jpg';
+import Image15 from '../../images/image15.jpg';
+import Image16 from '../../images/image16.jpg';
 
 import "./styles.scss";
 
@@ -110,6 +113,27 @@ const portfolioData = [
 		image : Image13,
 		link :'https://github.com/Akhilpm156/Projects_PowerBI-Excel-Tableau/tree/ca4879b524773e339b1b6dc30fee169246ab7b34/HR%20ANALYTICS'
 	},
+	{
+		id: 3,
+		title:"Rice Classification",
+		name : "VGG-16 - CNN",
+		image : Image14,
+		link :'https://www.kaggle.com/code/akhilpm1996/rice-classification-by-using-vggnet16'
+	},
+	{
+		id: 3,
+		title:"Named Entity Recognition",
+		name : "NLP - Transformers",
+		image : Image15,
+		link :'https://www.kaggle.com/code/akhilpm1996/named-entity-recognition-simple-transformers'
+	},
+	{
+		id: 3,
+		title:"Text summarization",
+		name : "Natural language processing",
+		image : Image16,
+		link :'https://github.com/Akhilpm156/Python_Projects/blob/888048be61527a29b49f54261d825a1f0d160bf9/NLP/Text%20summarization.ipynb'
+	},
 
 ]
 
@@ -125,7 +149,7 @@ const filterdata = [
 	},
 	{
 		filterId : 3,
-		label : 'Machine Learning and Deep Learning',
+		label : 'Artificial Intelligence',
 	}
 ]
 
