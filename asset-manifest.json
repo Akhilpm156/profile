@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/port/static/css/main.ba88cc3b.css",
-    "main.js": "/port/static/js/main.9c84b5e2.js",
+    "main.js": "/port/static/js/main.ba12d149.js",
     "static/media/image4.jpg": "/port/static/media/image4.c60aa1bea0edc1501777.jpg",
-    "static/media/Akhil.pdf": "/port/static/media/Akhil.a298c9d89642a71b097b.pdf",
+    "static/media/Akhil.pdf": "/port/static/media/Akhil.db518889b54568e63671.pdf",
     "static/media/image10.png": "/port/static/media/image10.1b5ebd6df06d7eac0cbf.png",
     "static/media/image13.png": "/port/static/media/image13.228f1e5dcfd41270d4cd.png",
     "static/media/image5.jpg": "/port/static/media/image5.91aac69180a64aab4efa.jpg",
@@ -13,15 +13,18 @@
     "static/media/image6.jpg": "/port/static/media/image6.bc8536d1725eb58d0735.jpg",
     "static/media/image3.jpg": "/port/static/media/image3.de2898c38c991e051ee1.jpg",
     "static/media/image1.jpeg": "/port/static/media/image1.a0acfdae70ba62b465f0.jpeg",
+    "static/media/image15.jpg": "/port/static/media/image15.227dc421216154331057.jpg",
     "static/media/image12.jpg": "/port/static/media/image12.8d740ce7549ac9423e43.jpg",
     "static/media/image7.jpg": "/port/static/media/image7.18bc665888359037f28f.jpg",
     "static/media/image11.jpg": "/port/static/media/image11.4cc8f51f5775ce5eeb2b.jpg",
+    "static/media/image14.jpg": "/port/static/media/image14.2010492939e8fd198b25.jpg",
+    "static/media/image16.jpg": "/port/static/media/image16.5c423e85cb71bb7365f2.jpg",
     "index.html": "/port/index.html",
     "main.ba88cc3b.css.map": "/port/static/css/main.ba88cc3b.css.map",
-    "main.9c84b5e2.js.map": "/port/static/js/main.9c84b5e2.js.map"
+    "main.ba12d149.js.map": "/port/static/js/main.ba12d149.js.map"
   },
   "entrypoints": [
     "static/css/main.ba88cc3b.css",
-    "static/js/main.9c84b5e2.js"
+    "static/js/main.ba12d149.js"
   ]
 }
