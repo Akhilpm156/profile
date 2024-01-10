@@ -22,13 +22,7 @@ import Image16 from '../../images/image16.jpg';
 import "./styles.scss";
 
 const portfolioData = [
-	{
-		id :3,
-		title:"Object Detection",
-		name : "YOLO V8",
-		image : ImageOne,
-		link :'https://github.com/Akhilpm156/Python_Projects/tree/df5493134f4582ed9c3cdb174bd729ad38ec5e1d/Object%20Detection%20car%20count%20project'
-	},
+	
 	{
 		id :3,
 		title:"Sentiment Analysis",
@@ -38,10 +32,38 @@ const portfolioData = [
 	},
 	{
 		id: 3,
+		title:"Rice Classification",
+		name : "VGG-16 - CNN",
+		image : Image14,
+		link :'https://www.kaggle.com/code/akhilpm1996/rice-classification-by-using-vggnet16'
+	},
+	{
+		id: 3,
+		title:"Named Entity Recognition",
+		name : "NLP - Transformers",
+		image : Image15,
+		link :'https://www.kaggle.com/code/akhilpm1996/named-entity-recognition-simple-transformers'
+	},
+	{
+		id: 3,
+		title:"Text summarization",
+		name : "NLP",
+		image : Image16,
+		link :'https://github.com/Akhilpm156/Python_Projects/blob/888048be61527a29b49f54261d825a1f0d160bf9/NLP/Text%20summarization.ipynb'
+	},
+	{
+		id: 3,
 		title:"Customer Churn prediction",
 		name : "Artificial Neural Networks",
 		image : ImageThree,
 		link :'https://github.com/Akhilpm156/Python_Projects/tree/df5493134f4582ed9c3cdb174bd729ad38ec5e1d/Churn%20prediction%20Ann'
+	},
+	{
+		id :3,
+		title:"Object Detection",
+		name : "YOLO V8",
+		image : ImageOne,
+		link :'https://github.com/Akhilpm156/Python_Projects/tree/df5493134f4582ed9c3cdb174bd729ad38ec5e1d/Object%20Detection%20car%20count%20project'
 	},
 	{
 		id: 3,
@@ -113,27 +135,7 @@ const portfolioData = [
 		image : Image13,
 		link :'https://github.com/Akhilpm156/Projects_PowerBI-Excel-Tableau/tree/ca4879b524773e339b1b6dc30fee169246ab7b34/HR%20ANALYTICS'
 	},
-	{
-		id: 3,
-		title:"Rice Classification",
-		name : "VGG-16 - CNN",
-		image : Image14,
-		link :'https://www.kaggle.com/code/akhilpm1996/rice-classification-by-using-vggnet16'
-	},
-	{
-		id: 3,
-		title:"Named Entity Recognition",
-		name : "NLP - Transformers",
-		image : Image15,
-		link :'https://www.kaggle.com/code/akhilpm1996/named-entity-recognition-simple-transformers'
-	},
-	{
-		id: 3,
-		title:"Text summarization",
-		name : "Natural language processing",
-		image : Image16,
-		link :'https://github.com/Akhilpm156/Python_Projects/blob/888048be61527a29b49f54261d825a1f0d160bf9/NLP/Text%20summarization.ipynb'
-	},
+	
 
 ]
 
@@ -149,7 +151,7 @@ const filterdata = [
 	},
 	{
 		filterId : 3,
-		label : 'Artificial Intelligence',
+		label : 'Data Science',
 	}
 ]
 

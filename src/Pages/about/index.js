@@ -26,9 +26,12 @@ const personalDetails = [
 	
 ];
 
-const summary = `Hello, I'm Akhil, a finance professional with an MBA in Human Resource Management and a Bachelor's degree in Finance. 
-With over four years of hands-on experience in accounting, I've cultivated a strong foundation in financial management, strategy formulation, and accounting practices.
-Currently, my focus is on mastering key skills in data analysis and machine learning. Proficient in Python, Power BI,Excel, MySql, Tableau,Chat GPT, and MongoDB, I leverage these tools to extract valuable insights from complex datasets. This transition into the dynamic field of data analysis reflects my commitment to staying at the forefront of technology and utilizing it to enhance financial decision-making.`
+const summary = `Hello! I'm Akhil, a passionate data scientist with a keen interest in unraveling insights from complex datasets. 
+My journey in the world of data science is a blend of curiosity, problem-solving, and continuous learning.
+I specialize in transforming raw data into meaningful narratives, utilizing advanced statistical analysis, machine learning, and data visualization techniques.
+Proficient in programming languages such as Python and Java, I enjoy building predictive models, conducting exploratory data analysis, and creating interactive visualizations.
+My goal is to make data-driven decisions more accessible and empower businesses to harness the power of their information.
+Explore my portfolio to see a collection of projects that showcase my skills in action.`
 
 const About=()=>{
 	return(
@@ -53,7 +56,7 @@ const About=()=>{
 			   	}}
 
 			   	>
-				<h3 className="personalheadtext">Data Analyst</h3>
+				<h3 className="personalheadtext">Data Science</h3>
 				<p>{summary}</p>
 			</Animate>
 
