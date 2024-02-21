@@ -18,6 +18,7 @@ import Image13 from '../../images/image13.png';
 import Image14 from '../../images/image14.jpg';
 import Image15 from '../../images/image15.jpg';
 import Image16 from '../../images/image16.jpg';
+import Image17 from '../../images/image17.jpg';
 
 import "./styles.scss";
 
@@ -25,8 +26,15 @@ const portfolioData = [
 	
 	{
 		id :3,
+		title:" Microsoft Stock Price Prediction",
+		name : "Time Series - ARIMA & SARIMA",
+		image :Image17,
+		link :'https://www.kaggle.com/code/akhilpm1996/time-series-arima-and-sarimax-models'
+	},
+	{
+		id :3,
 		title:"Sentiment Analysis",
-		name : "Recurrent Neural Networks",
+		name : "RNN - Sentiment Analysis",
 		image :ImageTwo,
 		link :'https://github.com/Akhilpm156/Python_Projects/tree/df5493134f4582ed9c3cdb174bd729ad38ec5e1d/NLP'
 	},
@@ -40,37 +48,37 @@ const portfolioData = [
 	{
 		id: 3,
 		title:"Named Entity Recognition",
-		name : "NLP - Transformers",
+		name : "NLP - NER",
 		image : Image15,
 		link :'https://www.kaggle.com/code/akhilpm1996/named-entity-recognition-simple-transformers'
 	},
 	{
 		id: 3,
 		title:"Text summarization",
-		name : "NLP",
+		name : "NLP - Text summarization",
 		image : Image16,
 		link :'https://github.com/Akhilpm156/Python_Projects/blob/888048be61527a29b49f54261d825a1f0d160bf9/NLP/Text%20summarization.ipynb'
 	},
 	{
 		id: 3,
 		title:"Customer Churn prediction",
-		name : "Artificial Neural Networks",
+		name : "ANN - Customer Churn prediction",
 		image : ImageThree,
 		link :'https://github.com/Akhilpm156/Python_Projects/tree/df5493134f4582ed9c3cdb174bd729ad38ec5e1d/Churn%20prediction%20Ann'
 	},
 	{
 		id :3,
 		title:"Object Detection",
-		name : "YOLO V8",
+		name : "YOLO V8 - Object Detection",
 		image : ImageOne,
 		link :'https://github.com/Akhilpm156/Python_Projects/tree/df5493134f4582ed9c3cdb174bd729ad38ec5e1d/Object%20Detection%20car%20count%20project'
 	},
 	{
 		id: 3,
-		title:"Tomato Diseases",
+		title:"Tomato_Leaf_Disease_Classification",
 		name : "Convolutional Neural Networks",
 		image : ImageFour,
-		link :'https://github.com/Akhilpm156/Python_Projects/tree/df5493134f4582ed9c3cdb174bd729ad38ec5e1d/Deep_learning_project_cnn'
+		link :'https://github.com/Akhilpm156/Tomato_Leaf_Disease_Classification'
 	},
 	{
 		id: 3,
@@ -81,15 +89,15 @@ const portfolioData = [
 	},
 	{
 		id: 3,
-		title:"Recommender System",
-		name : "Cosine Similarity User Based",
+		title:"Cosine Similarity",
+		name : "Recommender System",
 		image : ImageSix,
 		link :'https://github.com/Akhilpm156/Python_Projects/tree/df5493134f4582ed9c3cdb174bd729ad38ec5e1d/Recommendation%20system'
 	},
 	{
 		id: 3,
-		title:"Home Price Prediction",
-		name : "Linear Regression",
+		title:"Linear Regression",
+		name : "Home Price Prediction",
 		image : ImageSeven,
 		link :'https://github.com/Akhilpm156/Python_Projects/tree/df5493134f4582ed9c3cdb174bd729ad38ec5e1d/home%20price%20Predict'
 	},

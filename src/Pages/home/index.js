@@ -34,7 +34,7 @@ const Home=()=>{
 		   		<h1>
 		   			Hello, I'm Akhil
 		   			<br/>
-		   			Data Science enthusiast
+		   			Data Science Aspirant
 		   		</h1>
 		   	<Animate
 		   	play
