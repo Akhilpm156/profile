@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/port/static/css/main.ba88cc3b.css",
-    "main.js": "/port/static/js/main.ba12d149.js",
+    "main.js": "/port/static/js/main.ffcb35b7.js",
     "static/media/image4.jpg": "/port/static/media/image4.c60aa1bea0edc1501777.jpg",
     "static/media/Akhil.pdf": "/port/static/media/Akhil.db518889b54568e63671.pdf",
     "static/media/image10.png": "/port/static/media/image10.1b5ebd6df06d7eac0cbf.png",
@@ -19,12 +19,13 @@
     "static/media/image11.jpg": "/port/static/media/image11.4cc8f51f5775ce5eeb2b.jpg",
     "static/media/image14.jpg": "/port/static/media/image14.2010492939e8fd198b25.jpg",
     "static/media/image16.jpg": "/port/static/media/image16.5c423e85cb71bb7365f2.jpg",
+    "static/media/image17.jpg": "/port/static/media/image17.5c0854327bfe0fab9f3e.jpg",
     "index.html": "/port/index.html",
     "main.ba88cc3b.css.map": "/port/static/css/main.ba88cc3b.css.map",
-    "main.ba12d149.js.map": "/port/static/js/main.ba12d149.js.map"
+    "main.ffcb35b7.js.map": "/port/static/js/main.ffcb35b7.js.map"
   },
   "entrypoints": [
     "static/css/main.ba88cc3b.css",
-    "static/js/main.ba12d149.js"
+    "static/js/main.ffcb35b7.js"
   ]
 }
