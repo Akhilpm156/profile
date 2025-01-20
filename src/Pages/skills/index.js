@@ -104,6 +104,28 @@ const Skills=()=>{
           >
             <h3 className="vertical-timeline-element-title">MySQL</h3>
           </VerticalTimelineElement>
+
+          <VerticalTimelineElement
+            icon={<FaCode />}
+            iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+          >
+            <h3 className="vertical-timeline-element-title">Tensorflow</h3>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement
+            icon={<FaCode />}
+            iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+          >
+            <h3 className="vertical-timeline-element-title">Scikit-learn</h3>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement
+            icon={<FaCode />}
+            iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
+          >
+            <h3 className="vertical-timeline-element-title">Pytorch</h3>
+          </VerticalTimelineElement>
+
         </VerticalTimeline> 
 
 		</section>

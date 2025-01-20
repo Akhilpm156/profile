@@ -19,11 +19,45 @@ import Image14 from '../../images/image14.jpg';
 import Image15 from '../../images/image15.jpg';
 import Image16 from '../../images/image16.jpg';
 import Image17 from '../../images/image17.jpg';
+import Image18 from '../../images/heart.jfif';
+import Image19 from '../../images/medicalchatbot.jpg';
+import Image20 from '../../images/awsdeploy.jfif';
+import Image21 from '../../images/pdfchatbot.jpg';
+
 
 import "./styles.scss";
 
 const portfolioData = [
 	
+	
+	{
+		id :3,
+		title:"Brain Cancer Classification",
+		name : "AWS Deployment with Mlflow and DVC",
+		image :Image20,
+		link :'https://github.com/Akhilpm156/Brain-Cancer-Classification-using-MLflow-DVC'
+	},
+	{
+		id :3,
+		title:"Medical Chatbot",
+		name : "RAG Based Medical Chatbot",
+		image :Image19,
+		link :'https://github.com/Akhilpm156/End-to-end-chatbot-Llama3'
+	},
+	{
+		id :3,
+		title:"PDF ChatBot",
+		name : "RAG Based Project using LLM ",
+		image :Image21,
+		link :'https://github.com/Akhilpm156/pdf_chat_gemini_pro_llm'
+	},
+	{
+		id :3,
+		title:" Heart Diseases Classification",
+		name : "End to End ML Project With Docker",
+		image :Image18,
+		link :'https://github.com/Akhilpm156/Machine_Learning_Project_With_docker'
+	},
 	{
 		id :3,
 		title:" Microsoft Stock Price Prediction",
@@ -57,7 +91,7 @@ const portfolioData = [
 		title:"Text summarization",
 		name : "NLP - Text summarization",
 		image : Image16,
-		link :'https://github.com/Akhilpm156/Python_Projects/blob/888048be61527a29b49f54261d825a1f0d160bf9/NLP/Text%20summarization.ipynb'
+		link :'https://github.com/Akhilpm156/NLP-Project-Text-Summarizer'
 	},
 	{
 		id: 3,
@@ -68,10 +102,10 @@ const portfolioData = [
 	},
 	{
 		id :3,
-		title:"Object Detection",
-		name : "YOLO V8 - Object Detection",
+		title:"Object Dectection and Tracking",
+		name : "YOLO V8 - Vehicles Count",
 		image : ImageOne,
-		link :'https://github.com/Akhilpm156/Python_Projects/tree/df5493134f4582ed9c3cdb174bd729ad38ec5e1d/Object%20Detection%20car%20count%20project'
+		link :'https://github.com/Akhilpm156/Python_Projects/tree/b45c3621251e834ab7784a7de07ea48b9948309c/Object%20Detection%20car%20count%20project'
 	},
 	{
 		id: 3,

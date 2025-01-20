@@ -14,7 +14,7 @@ const Home=()=>{
 		link.href = Resume;
 
     
-    link.download = 'resume.pdf';
+    link.download = 'Akhil.pdf';
 
     
     document.body.appendChild(link);
