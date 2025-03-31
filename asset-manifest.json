@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.ba88cc3b.css",
-    "main.js": "/profile/static/js/main.d86782a0.js",
+    "main.js": "/profile/static/js/main.4fcd2b41.js",
     "static/media/image4.jpg": "/profile/static/media/image4.c60aa1bea0edc1501777.jpg",
-    "static/media/Akhil.pdf": "/profile/static/media/Akhil.94ec1fc8f8aab5d2a921.pdf",
     "static/media/image10.png": "/profile/static/media/image10.1b5ebd6df06d7eac0cbf.png",
     "static/media/image13.png": "/profile/static/media/image13.228f1e5dcfd41270d4cd.png",
     "static/media/image5.jpg": "/profile/static/media/image5.91aac69180a64aab4efa.jpg",
@@ -21,15 +20,16 @@
     "static/media/image11.jpg": "/profile/static/media/image11.4cc8f51f5775ce5eeb2b.jpg",
     "static/media/image14.jpg": "/profile/static/media/image14.2010492939e8fd198b25.jpg",
     "static/media/awsdeploy.jfif": "/profile/static/media/awsdeploy.e98b53ec029c36438d7b.jfif",
+    "static/media/Akhil.docx": "/profile/static/media/Akhil.b2f86eaeb59f19fdb65c.docx",
     "static/media/image16.jpg": "/profile/static/media/image16.5c423e85cb71bb7365f2.jpg",
     "static/media/heart.jfif": "/profile/static/media/heart.5cce4242d8b4959815b2.jfif",
     "static/media/image17.jpg": "/profile/static/media/image17.5c0854327bfe0fab9f3e.jpg",
     "index.html": "/profile/index.html",
     "main.ba88cc3b.css.map": "/profile/static/css/main.ba88cc3b.css.map",
-    "main.d86782a0.js.map": "/profile/static/js/main.d86782a0.js.map"
+    "main.4fcd2b41.js.map": "/profile/static/js/main.4fcd2b41.js.map"
   },
   "entrypoints": [
     "static/css/main.ba88cc3b.css",
-    "static/js/main.d86782a0.js"
+    "static/js/main.4fcd2b41.js"
   ]
 }
