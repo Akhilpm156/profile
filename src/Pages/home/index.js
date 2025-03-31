@@ -1,6 +1,6 @@
 import React from "react";
 import './styles.scss';
-import Resume from'../../utils/Akhil.pdf';
+import Resume from'../../utils/Akhil.docx';
 import {Animate} from 'react-simple-animate';
 import { FaLinkedin, FaGithub, FaKaggle } from "react-icons/fa";
 
@@ -14,7 +14,7 @@ const Home=()=>{
 		link.href = Resume;
 
     
-    link.download = 'Akhil.pdf';
+    link.download = 'Akhil.docx';
 
     
     document.body.appendChild(link);
